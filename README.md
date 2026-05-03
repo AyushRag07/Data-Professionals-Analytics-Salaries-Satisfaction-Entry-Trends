@@ -94,4 +94,3 @@ This analysis highlights that while data careers offer **high earning potential*
 ## 👤 Author
 
 **Ayush Rag**
-Aspiring Data Analyst
